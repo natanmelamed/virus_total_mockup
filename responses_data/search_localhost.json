@@ -1,0 +1,129 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "date": 1576541808,
+                "text": "55.27.27.123.in-addr.arpa\n     ----------------------------------------\n      Name of the registry. . . . . . . . . . . . . : 55.27.27.123.in-addr.arpa\n      Record type. . . . . . . . . . . . . : 12\n      Lifetime . . . . . . . . . . . . . . : 86122\n      Data Length. . . . . . . . . . : 8\n     Section. . . . . . . . . . . . . . . . . . . : Answer\n     PTR registration. . . . . . . . . . . . . . . : localhost\n\n#localhost",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "55.27.27.123.in-addr.arpa<br />     &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-<br />      Name of the registry. . . . . . . . . . . . . : 55.27.27.123.in-addr.arpa<br />      Record type. . . . . . . . . . . . . : 12<br />      Lifetime . . . . . . . . . . . . . . : 86122<br />      Data Length. . . . . . . . . . : 8<br />     Section. . . . . . . . . . . . . . . . . . . : Answer<br />     PTR registration. . . . . . . . . . . . . . . : localhost<br /><br />#localhost",
+                "tags": [
+                    "localhost"
+                ]
+            },
+            "type": "comment",
+            "id": "i-123.27.27.55-46c1a413",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-123.27.27.55-46c1a413"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1576541595,
+                "text": "110.27.27.123.in-addr.arpa\n    ----------------------------------------\n     Nome do Registro. . . . . . . . . . . . . : 110.27.27.123.in-addr.arpa\n     Tipo de Registro. . . . . . . . . . . . . : 12\n     Tempo de Vida . . . . . . . . . . . . . . : 86326\n     Comprimento dos Dados . . . . . . . . . . : 8\n    Seção. . . . . . . . . . . . . . . . . . . : Resposta\n    Registro PTR . . . . . . . . . . . . . . . : localhost\n\n#localhost",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "110.27.27.123.in-addr.arpa<br />    &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-<br />     Nome do Registro. . . . . . . . . . . . . : 110.27.27.123.in-addr.arpa<br />     Tipo de Registro. . . . . . . . . . . . . : 12<br />     Tempo de Vida . . . . . . . . . . . . . . : 86326<br />     Comprimento dos Dados . . . . . . . . . . : 8<br />    Seção. . . . . . . . . . . . . . . . . . . : Resposta<br />    Registro PTR . . . . . . . . . . . . . . . : localhost<br /><br />#localhost",
+                "tags": [
+                    "localhost"
+                ]
+            },
+            "type": "comment",
+            "id": "i-123.27.27.110-cbef8bd9",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-123.27.27.110-cbef8bd9"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1573510122,
+                "text": "MX 3599 #localhost #GoDaddy",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "MX 3599 #localhost #GoDaddy",
+                "tags": [
+                    "localhost",
+                    "godaddy"
+                ]
+            },
+            "type": "comment",
+            "id": "d-agridusterdrones.com-e45d0a41",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/d-agridusterdrones.com-e45d0a41"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1573466722,
+                "text": "Last DNS Records\n\n...\nMX 3599 #localhost\n...",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "Last DNS Records<br /><br />&#8230;<br />MX 3599 #localhost<br />&#8230;",
+                "tags": [
+                    "localhost"
+                ]
+            },
+            "type": "comment",
+            "id": "d-automatedcashdaily.com-357e4c6c",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/d-automatedcashdaily.com-357e4c6c"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1572204933,
+                "text": "#localhost",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "#localhost",
+                "tags": [
+                    "localhost"
+                ]
+            },
+            "type": "comment",
+            "id": "u-e35da960b323d1fc5825fcc4a5332a3e94fb68dbe72f44832c270f2b02d7f871-31618e86",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/u-e35da960b323d1fc5825fcc4a5332a3e94fb68dbe72f44832c270f2b02d7f871-31618e86"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1572204881,
+                "text": "2019-10-27 19:30:17 UTC\n\n0/0\n\nCylance\n\n#Unsafe\n\n2019-05-08 13:09:16 UTC\n\n#localhost",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "2019-10-27 19:30:17 UTC<br /><br />0/0<br /><br />Cylance<br /><br />#Unsafe<br /><br />2019-05-08 13:09:16 UTC<br /><br />#localhost",
+                "tags": [
+                    "unsafe",
+                    "localhost"
+                ]
+            },
+            "type": "comment",
+            "id": "f-bf509c1f86856f10e0f722e7cfcc13c7d1eaf1b034eb81ac369891ae268c2d15-1587977a",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/f-bf509c1f86856f10e0f722e7cfcc13c7d1eaf1b034eb81ac369891ae268c2d15-1587977a"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://www.virustotal.com/api/v3/search?query=localhost"
+    }
+}
